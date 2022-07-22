@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ADejbakhsh
-- 🌱 I’m currently learning ruby
+📫 Arman@dejbakhsh.fr
 
-- 📫 Arman@dejbakhsh.fr
 
 <!-- 
  - 💞️ I’m looking to collaborate on ...
