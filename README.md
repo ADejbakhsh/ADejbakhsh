@@ -1,7 +1,7 @@
 📫 Arman@dejbakhsh.fr
 
-Although I work for money, money will not make me work.
-I'm looking for interesting work rather than a high paying job.
+Although I work for money, money will not make me work. <br>
+I'm looking for interesting work rather than a high paying job.<br>
 Contact me if you have something interesting, anything goes.
 
 <!-- 
